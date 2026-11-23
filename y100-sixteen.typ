@@ -159,7 +159,7 @@ Community Church.)
 
 // Page 6
 
-In 1910 the two churches celebrated a “Golden Jubilee” – 50 years
+In 1910 the two churches celebrated a “Golden Jubilee” — 50 years
 of Lutheran worship in Augusta. Each Pastor wrote a history of his own
 congregation, which are valuable resources for us today.
 
@@ -219,12 +219,12 @@ It has taken us 100 years to develop the combination of buildings that
 we have today. They have allowed space for worship, outreach programs,
 offices, meals and fun. They can be listed in 8 steps:
 
-*1926* – The worship center and Sunday School, 825 Greene Street. The
+*1926* — The worship center and Sunday School, 825 Greene Street. The
 single building housed worship on the main floor, and Sunday School
 space in the basement, now called the "Catacombs." Rest rooms were under
 the stairs to the basement.
 
-*1938* – Four temporary classrooms were built behind the church. With
+*1938* — Four temporary classrooms were built behind the church. With
 permission of the owner of the warehouse behind us, our rooms were
 attached to the warehouse wall, a lean-to construction. This limited our cost
 to \$1200.
@@ -237,14 +237,14 @@ to \$1200.
 // Page 10
 
 
-*1944* – The former Woman’s Club, two doors from the church, was
+*1944* — The former Woman’s Club, two doors from the church, was
 bought. We called this our Church House.  It provided offices and
 classrooms, a kitchen and a restroom. Stairs to the second floor were
 outdoors. Two active “Luther League” youth groups met there. A former
 carriage house behind it became our Recreation Hall. It provided room
 for meals and fun!
 
-*Later 1944* – The “Bell Property,” between the Church House and
+*Later 1944* — The “Bell Property,” between the Church House and
 the Church was bought and held for future use. Two ladies’ shops there
 (hats and clothing) remained rented for income.
 
@@ -266,7 +266,7 @@ the Church was bought and held for future use. Two ladies’ shops there
     ]
 ]
 
-*1955* – Here came the Baby Boomer generation and a need for more
+*1955* — Here came the Baby Boomer generation and a need for more
 space. The long-awaited Educational Building was placed on the “Bell
 Property” and dedicated in February 1955. It had offices, classrooms,
 and choir rooms. The temporary classrooms behind the church and the
@@ -279,12 +279,12 @@ years later, connect it to the church.)
 
 // Page 12
 
-*1980s* - The final piece of the property puzzle was the purchase of
+*1980s* — The final piece of the property puzzle was the purchase of
 the Parking Lot tract from Southern Bell. Downtown parking nearby is
 important, and we were lucky to get it.
 
 
-*1997* – After the 1996 “Diamond Jubilee” celebration of the
+*1997* — After the 1996 “Diamond Jubilee” celebration of the
 congregation’s 75th birthday the interior of the Educational Building
 was re-configured. The Recreation Hall and kitchen were improved, and
 were named Reiser Hall, honoring Walter Allen Reiser and Cora Shealy
@@ -302,7 +302,7 @@ Hunter, now our leader for more than 27 years.
 
 // Page 13
 
-*2019* – Old Reiser Hall, built in the 1800s, and the old kitchen were
+*2019* — Old Reiser Hall, built in the 1800s, and the old kitchen were
 replaced with a beautiful new and larger Reiser Hall. It has a catering
 kitchen and a laundry. Parking has been re-arranged and landscaped. Five
 Reiser grandchildren and a great-grandchild attended the dedication of
@@ -337,7 +337,7 @@ future. Enjoy it, and use it well!
 // Page 15 (inside back cover)
 
 #align(center + horizon)[
-    Our Children – Our Future
+    Our Children — Our Future
     #block(height: 1fr)[
         #rotate(-90deg, reflow: true, image("pix/church100/children-sermon.png", fit: "contain"))
     ]
