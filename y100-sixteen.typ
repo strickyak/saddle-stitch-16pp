@@ -157,6 +157,8 @@ Community Church.)
 
 #pagebreak()
 
+// Page 6
+
 In 1910 the two churches celebrated a “Golden Jubilee” – 50 years
 of Lutheran worship in Augusta. Each Pastor wrote a history of his own
 congregation, which are valuable resources for us today.
@@ -172,11 +174,13 @@ the re-birth of the Lutheran Church in Augusta.
 #align(center)[
     #image("pix/church100/broad-street.png", width: 100%)
     #text(size: 10pt, weight: "bold")[
-        Broad Street in 1924
+        Model T Fords on Broad Street in 1924
     ]
 ]
 
 #pagebreak()
+
+// Page 7
 
 Neither church building could hold the combined membership of 350,
 so a new church building on the 800 block of Greene Street was planned.
@@ -196,6 +200,8 @@ programs. It still does this.
 
 #pagebreak()
 
+// Page 8
+
 #image("pix/church100/new-luth-ch-architects.jpeg", width: 100%)
 
 You ask what happened to the steeple? There was not enough money
@@ -207,18 +213,18 @@ important than a steeple.
 
 #pagebreak()
 
+// Page 9
+
 It has taken us 100 years to develop the combination of buildings that
 we have today. They have allowed space for worship, outreach programs,
-offices, meals and fun.. They can be listed in 8 steps:
+offices, meals and fun. They can be listed in 8 steps:
 
-1926 – The worship center and Sunday School, 825 Greene Street. The
+*1926* – The worship center and Sunday School, 825 Greene Street. The
 single building housed worship on the main floor, and Sunday School
 space in the basement, now called the "Catacombs." Rest rooms were under
 the stairs to the basement.
 
-
-
-1938? – Four temporary classrooms were built behind the church. With
+*1938* – Four temporary classrooms were built behind the church. With
 permission of the owner of the warehouse behind us, our rooms were
 attached to the warehouse wall, a lean-to construction. This limited our cost
 to \$1200.
@@ -228,15 +234,17 @@ to \$1200.
 
 #pagebreak()
 
+// Page 10
 
-1944 – The former Woman’s Club, two doors from the church, was
+
+*1944* – The former Woman’s Club, two doors from the church, was
 bought. We called this our Church House.  It provided offices and
 classrooms, a kitchen and a restroom. Stairs to the second floor were
 outdoors. Two active “Luther League” youth groups met there. A former
 carriage house behind it became our Recreation Hall. It provided room
 for meals and fun!
 
-Later 1944 – The “Bell Property,” between the Church House and
+*Later 1944* – The “Bell Property,” between the Church House and
 the Church was bought and held for future use. Two ladies’ shops there
 (hats and clothing) remained rented for income.
 
@@ -249,6 +257,8 @@ the Church was bought and held for future use. Two ladies’ shops there
 
 #pagebreak()
 
+// Page 11
+
 #align(center)[
     #image("pix/church100/wedding-1950.jpeg", width: 100%)
     #text(size: 10pt, weight: "bold")[
@@ -256,7 +266,7 @@ the Church was bought and held for future use. Two ladies’ shops there
     ]
 ]
 
-1955 – Here came the Baby Boomer generation and a need for more
+*1955* – Here came the Baby Boomer generation and a need for more
 space. The long-awaited Educational Building was placed on the “Bell
 Property” and dedicated in February 1955. It had offices, classrooms,
 and choir rooms. The temporary classrooms behind the church and the
@@ -267,12 +277,14 @@ years later, connect it to the church.)
 
 #pagebreak()
 
-1980s - The final piece of the property puzzle was the purchase of
+// Page 12
+
+*1980s* - The final piece of the property puzzle was the purchase of
 the Parking Lot tract from Southern Bell. Downtown parking nearby is
 important, and we were lucky to get it.
 
 
-1997 – After the 1996 “Diamond Jubilee” celebration of the
+*1997* – After the 1996 “Diamond Jubilee” celebration of the
 congregation’s 75th birthday the interior of the Educational Building
 was re-configured. The Recreation Hall and kitchen were improved, and
 were named Reiser Hall, honoring Walter Allen Reiser and Cora Shealy
@@ -282,17 +294,15 @@ Hunter, now our leader for more than 27 years.
 
 #align(center)[
     #image("pix/church100/renovation-1997.JPG", width: 80%)
-    #text(size: 10pt, weight: "bold")[
-        Wedding in 1950
-    ]
 ]
 
 
 
 #pagebreak()
 
+// Page 13
 
-2019 – Old Reiser Hall, built in the 1800s, and the old kitchen were
+*2019* – Old Reiser Hall, built in the 1800s, and the old kitchen were
 replaced with a beautiful new and larger Reiser Hall. It has a catering
 kitchen and a laundry. Parking has been re-arranged and landscaped. Five
 Reiser grandchildren and a great-grandchild attended the dedication of
@@ -303,7 +313,7 @@ features of our other buildings. It received a New Construction Award
 from Historic Augusta for new construction that fits in with existing
 historic structures.
 
-#image("pix/church100/long-church.png", width: 100%)
+#image("pix/church100/reiser-hall-front-side.jpg", width: 100%)
 
 Now after 100 years our church complex is complete and ready for the
 future. Enjoy it, and use it well!
@@ -315,10 +325,11 @@ future. Enjoy it, and use it well!
 #align(center + horizon)[
     “So great a cloud of witnesses”
 
-    #rotate(-90deg, reflow: true, image("pix/church100/ladies.png", fit: "contain"))
     #text(size: 10pt, weight: "bold")[
         Hebrews 12:1
     ]
+
+    #rotate(-90deg, reflow: true, image("pix/church100/ladies.png", fit: "contain"))
 ]
 
 #pagebreak()
@@ -346,7 +357,7 @@ future. Enjoy it, and use it well!
     #image("pix/church100/luther-rose.jpg", width: 100%)
 
     #text(size: 10pt, weight: "bold")[
-        Text by Jean Bowe Strickland (the last of the Bowes)
+        Text by Jean Bowe Strickland
 
         Images from various sources
 
