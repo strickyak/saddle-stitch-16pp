@@ -57,10 +57,10 @@
   #linegap
 
   #text(size: 18pt)[
-  “A church is not a building, \
-  A church is not a steeple, \
-  A church is not a resting place, \
-  A church is a people."
+  “The church is not a building, \
+  The church is not a steeple, \
+  The church is not a resting place, \
+  The church is a people.”
   ]
 
   #linegap
@@ -70,8 +70,8 @@
   #linegap
 
   #text(size: 18pt)[
-  "I am the church, \
-  You are the church, \
+  “I am the church, \
+  You are the church ... \
   Yes, we’re the church together.”
   ]
 
@@ -117,10 +117,10 @@ was for all!
 A German Lutheran congregation began in February 1859, using the German
 language for worship and for teaching. Pastor Peter A. B. Meister
 arrived in town, gathered all the German-born citizens together, and they organized
-a congregation. Later it was called St. Matthews German Lutheran
+a congregation. Later it was called St. Matthew's German Lutheran
 Church. Until their church was completed a year later they met in
 the Jewish Synagogue. The church was
-at 548 Walker Strteet near 6th Street;
+at 548 Walker Street near 6th Street;
 then they added a Schoolhouse and operated a German Day School. (These
 buildings are now used by the Chinese Benevolent Association.)
 
@@ -128,7 +128,7 @@ buildings are now used by the Chinese Benevolent Association.)
 // #image("pix/church100/st-matt.png", width: 100%)
 //     #text(size: 10pt, weight: "bold")[
 //         #align(center)[
-//             St. Matthews German Lutheran Church
+//             St. Matthew's German Lutheran Church
 //         ]
 //     ]
 
@@ -138,9 +138,9 @@ By 1883 a new generation of German families had grown up, had established
 households, and were raising children. They wanted to worship in English,
 the language of the “New World.”  When their request for some services
 in English was denied, 20 members withdrew and formed an English-speaking
-congregation called Holy Trinity English Lutheran church. 
+congregation called Holy Trinity English Lutheran Church. 
 It grew rapidly and by 1887 they had
-erected a brick Gothic- style Church on the 500 block of Greene Street,
+erected a brick Gothic-style church on the 500 block of Greene Street,
 across from today’s City County Building. (It is now the Metropolitan
 Community Church.)
 
@@ -150,6 +150,7 @@ Community Church.)
     #text(size: 10pt, weight: "bold")[
          Holy Trinity English Lutheran Church
     ]
+
     #text(size: 10pt, weight: "bold")[
          557 Greene Street
     ]
@@ -221,7 +222,7 @@ offices, meals and fun. They can be listed in 8 steps:
 
 *1926* — The worship center and Sunday School, 825 Greene Street. The
 single building housed worship on the main floor, and Sunday School
-space in the basement, now called the "Catacombs." Rest rooms were under
+space in the basement, now called the "Catacombs." Restrooms were under
 the stairs to the basement.
 
 *1938* — Four temporary classrooms were built behind the church. With
@@ -245,7 +246,7 @@ carriage house behind it became our Recreation Hall. It provided room
 for meals and fun!
 
 *Later 1944* — The “Bell Property,” between the Church House and
-the Church was bought and held for future use. Two ladies’ shops there
+the Church, was bought and held for future use. Two ladies’ shops there
 (hats and clothing) remained rented for income.
 
 #align(center)[
@@ -367,6 +368,8 @@ future. Enjoy it, and use it well!
         https://creativecommons.org/licenses/by/4.0/ \
         Share with Attribution
 
+Except on page 2: "We Are the Church" by Richard K. Avery and Donald S. Marsh (© 1972 Hope Publishing Co.)
     ]
+
 
 ]

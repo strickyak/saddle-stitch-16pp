@@ -1,0 +1,68 @@
+
+  I read through both y100-sixteen.typ and the rendered y100-sixteen.pdf without making any changes. Your mother’s history is warm, engaging, and well-paced. Below are
+  the typos, rendering glitches, possible clarity questions, and factual/copyright notes I found, leaving her voice and stylistic choices untouched.
+  ──────
+  1. Typos & Typst Rendering Glitches
+
+  • Strteet → Street (Page 4, y100-sixteen.typ:123):
+  "The church was at 548 Walker Strteet near 6th Street"
+  • St. Matthews vs. St. Matthew’s (Page 4, y100-sixteen.typ:120):
+  The text has "St. Matthews German Lutheran Church" (no apostrophe), while the historical photo caption directly below on the same page reads "St. Matthew’s German
+  Lutheran Church Building".
+  • Backwards closing quote in PDF (Page 2, y100-sixteen.typ:60-63 / y100-sixteen.pdf):
+  Line 60 opens with a literal Unicode curly quote (“A church...), while line 63 closes with a straight quote (...people."). Because Typst’s smart-quote parser didn't
+  see an opening straight quote, it renders the closing quote on page 2 backwards as an opening quote: A church is a people.“
+  • Extra space in Gothic- style & capitalization swap on church/Church (Page 5, y100-sixteen.typ:141-143):
+      • Line 143 has a space after the hyphen: "a brick Gothic- style Church".
+      • Line 141 leaves church lowercase at the end of the proper name ("Holy Trinity English Lutheran church"—compare "Holy Trinity English Lutheran Church" in the
+      caption below), whereas line 143 capitalizes the generic noun ("a brick Gothic- style Church").
+  • Two-line photo caption rendered on one line (Page 5, y100-sixteen.typ:150-155 / y100-sixteen.pdf):
+  Two adjacent #text[...] blocks have no \ line break between them, so in the PDF they run together on a single line without punctuation: Holy Trinity English Lutheran
+  Church 557 Greene Street.
+  • Minor consistency/punctuation:
+      • "Rest rooms" (two words) on Page 9 (y100-sixteen.typ:224) vs. "restroom" (one word) on Page 10 (y100-sixteen.typ:242).
+      • Missing closing parenthetical comma on Page 10 (y100-sixteen.typ:247-248): "The “Bell Property,” between the Church House and the Church[,] was bought..."
+      • On Page 3 (y100-sixteen.typ:99), "the Reapers of their work Sown for the Lord" capitalizes Reapers and Sown—this looks like deliberate emphasis echoing "reap"
+      and "sown" in Pastor Finck’s quote, so only touch it if Sown was accidental.
+
+  ──────
+  2. Potentially Unclear to the Reader
+  
+  • The merger year 1921 isn't stated in the body narrative (Pages 6–7, y100-sixteen.typ:166-189):
+  1921-2026 appears on the front cover, and Page 6 says *"Almost forty years after they had divided [1883], the two churches realized that it was time to get together 
+  again... They agreed to reunite..."* followed immediately by a photo captioned 1924, and then Page 7 says *"After five years of fund-raising... dedicated on December
+  5, 1926."* Without 1921 named in the text, a reader can be momentarily thrown by the 1924 photo before doing the 1926 − 5 math.
+  • "the Church House rooms" (Page 11, y100-sixteen.typ:272-273):
+  Page 10 introduces the former Woman’s Club building as "our Church House" (with the carriage house behind it becoming the Recreation Hall). Page 11 then says "The   
+  temporary classrooms behind the church and the Church House rooms were no longer needed, so they were torn down." A reader unfamiliar with the campus might wonder   
+  whether the entire Church House building was demolished (leaving only the carriage house behind it) or just certain rooms/additions.
+  • Uncaptioned photo on Page 12 (y100-sixteen.typ:295-297):
+  Unlike most of the other photos, renovation-1997.JPG has no caption or embedded label. Visitors may not know whether the white-gabled entrance shown there is part of
+  the 1997 work that still stands or the Old Reiser Hall replaced in 2019 on the facing page.
+  • "Old Reiser Hall, built in the 1800s" (Page 13, y100-sixteen.typ:305):
+  Readers reading closely from Page 10 (former carriage house → Recreation Hall) through Page 12 (renamed Reiser Hall in 1997) can piece this together, though someone 
+  skimming the bold timeline dates may briefly wonder how a hall at a 1926 church—named Reiser Hall in 1997—was built in the 1800s.
+  ──────
+  3. Factual, Quotation & Licensing Checks
+  
+  All key dates, names, addresses, and anniversary counts check out (Sunday, December 6, 2026 and December 5, 1926 are both Sundays; 8 steps in the building list;     
+  Pastor Peter Meister in Feb 1859; 548 Walker St.; 1883 split & 557 Greene St. / Metropolitan Community Church; 1910 histories by Pastors Finck and Derrick; Scroggs &
+  Ewing; 1996 75th Diamond Jubilee; Walter Allen & Cora Shealy Reiser; Pastor David B. Hunter; Feb 2020 Reiser Hall dedication & Historic Augusta New Construction     
+  Award; Hebrews 12:1; 825 Greene St. & (706) 724-8792). A few items worth checking:
+  
+  • Hymn wording, attribution, and CC BY 4.0 (Page 2, y100-sixteen.typ:60-76, and Page 16, y100-sixteen.typ:360-368):
+      • The lines on Page 2 are from "We Are the Church" by Richard K. Avery and Donald S. Marsh (© 1972 Hope Publishing Co.).
+      • Wording: The published hymn starts each of the four verse lines with "The" rather than "A" ("The church is not a building..."), and the refrain has two lines  
+      in the middle ("We are the church together! / All who follow Jesus, all around the world!") before "Yes, we’re the church together."
+      • Licensing: Because a 1972 hymn is still under copyright (usually reprinted by churches under OneLicense or CCLI with a copyright line), you may want to credit 
+      Avery & Marsh / Hope Publishing and make sure the back cover’s CC BY 4.0 license clearly applies to your mother’s text rather than the quoted hymn lyrics.       
+  • "These buildings" at 548 Walker Street (Page 4, y100-sixteen.typ:124-125):
+  The text mentions the church and the added Schoolhouse, then says "(These buildings are now used by the Chinese Benevolent Association.)" Your mother likely knows   
+  the property firsthand, so just double-check that the schoolhouse structure still stands and is used alongside the 1860 brick church building (and note that the     
+  group’s full name is the Chinese Consolidated Benevolent Association, though shortening it is completely natural).
+  • 1910 "Golden Jubilee" math nuance (Page 6, y100-sixteen.typ:162-163):
+  Page 4 gives February 1859 as the start of Lutheran worship in Augusta, while Page 6 says "In 1910 the two churches celebrated a 'Golden Jubilee' — 50 years of      
+  Lutheran worship in Augusta." Historically, St. Matthew’s celebrated its Golden Jubilee in January 1910—50 years after dedicating its 1860 church building (and ~51  
+  years after worship began in 1859). This is completely fine in context, just a one-year arithmetic detail an attentive reader might notice.
+
+
