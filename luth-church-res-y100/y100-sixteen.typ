@@ -124,13 +124,9 @@ at 548 Walker Street near 6th Street;
 then they added a Schoolhouse and operated a German Day School. (These
 buildings are now used by the Chinese Benevolent Association.)
 
+\
+
 #image("pix/church100/st-mathews-german.jpeg", width: 100%)
-// #image("pix/church100/st-matt.png", width: 100%)
-//     #text(size: 10pt, weight: "bold")[
-//         #align(center)[
-//             St. Matthew's German Lutheran Church
-//         ]
-//     ]
 
 #pagebreak()
 
@@ -195,7 +191,6 @@ programs. It still does this, through the Downtown Cooperative
 Church Ministries and other groups.
 
 \
-\
 
 // PHOTOS: Nave and Chancel of church
 #image("pix/church100/nave.jpeg", width: 100%)
@@ -205,6 +200,8 @@ Church Ministries and other groups.
 // Page 8
 
 #image("pix/church100/new-luth-ch-architects.jpeg", width: 100%)
+
+\
 
 You ask what happened to the steeple? There was not enough money
 in 1926 to add a steeple. That was to come later, and the “Tower
@@ -231,6 +228,8 @@ permission of the owner of the warehouse behind us, our rooms were
 attached to the warehouse wall, a lean-to construction. This limited our cost
 to \$1200.
 
+\
+
 #image("pix/church100/res-choir.png", width: 100%)
 
 
@@ -250,6 +249,8 @@ for meals and fun!
 the Church, was bought and held for future use. Two ladies’ shops there
 (hats and clothing) remained rented for income.
 
+\
+
 #align(center)[
     #image("pix/church100/bible-school.png", width: 100%)
     #text(size: 10pt, weight: "bold")[
@@ -267,6 +268,8 @@ the Church, was bought and held for future use. Two ladies’ shops there
         Wedding in 1950
     ]
 ]
+
+\
 
 *1955* — Here came the Baby Boomer generation and a need for more
 space. The long-awaited Educational Building was placed on the “Bell
@@ -295,7 +298,7 @@ the congregation for 25 years. His was the longest Pastorate until Pastor
 Hunter, now our leader for more than 27 years.
 
 #align(center)[
-    #image("pix/church100/renovation-1997.JPG", width: 80%)
+    #image("pix/church100/renovation-1997.JPG", width: 100%)
 ]
 
 
