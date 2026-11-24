@@ -191,7 +191,8 @@ church was finally completed. It was dedicated on December 5, 1926,
 following a week of festivities. Members of the community attended
 the celebration. Resurrection Church was an important part of downtown
 Augusta, providing leadership and aid in many organizations and their
-programs. It still does this.
+programs. It still does this, through the Downtown Cooperative
+Church Ministries and other groups.
 
 \
 \
